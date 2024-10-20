@@ -1,5 +1,3 @@
-# Phishing Detection with Machine Learning
-
 ## Project Overview
 
 This project aims to detect phishing URLs using advanced machine learning techniques. We compare and contrast different algorithms to identify the most effective approach in phishing detection.
